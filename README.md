@@ -1,3 +1,3 @@
 # JavaFxWork.github.io
 
-Basic application using JavaFX and Swing.
+Basic applications using JavaFX and Swing.
